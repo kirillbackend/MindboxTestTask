@@ -1,0 +1,6 @@
+E:\TestTask\MindboxTestTask\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.dll
+E:\TestTask\MindboxTestTask\GeometricShapes\GeometricShapes\bin\Debug\GeometricShapes.pdb
+E:\TestTask\MindboxTestTask\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.AssemblyReference.cache
+E:\TestTask\MindboxTestTask\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.csproj.CoreCompileInputs.cache
+E:\TestTask\MindboxTestTask\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.dll
+E:\TestTask\MindboxTestTask\GeometricShapes\GeometricShapes\obj\Debug\GeometricShapes.pdb
